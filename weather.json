@@ -7,7 +7,7 @@
                 "value": 83
             }
         ],
-        "recordTime": "2024-09-11T23:00:00+08:00"
+        "recordTime": "2024-09-12T00:00:00+08:00"
     },
     "icon": [
         72
@@ -125,8 +125,8 @@
                 "unit": "mm"
             }
         ],
-        "endTime": "2024-09-11T22:45:00+08:00",
-        "startTime": "2024-09-11T21:45:00+08:00"
+        "endTime": "2024-09-11T23:45:00+08:00",
+        "startTime": "2024-09-11T22:45:00+08:00"
     },
     "rainfallFrom00To12": "",
     "rainfallJanuaryToLastMonth": "",
@@ -162,7 +162,7 @@
             {
                 "place": "Tai Po",
                 "unit": "C",
-                "value": 28
+                "value": 27
             },
             {
                 "place": "Sha Tin",
@@ -172,7 +172,7 @@
             {
                 "place": "Tuen Mun",
                 "unit": "C",
-                "value": 28
+                "value": 27
             },
             {
                 "place": "Tseung Kwan O",
@@ -182,7 +182,7 @@
             {
                 "place": "Sai Kung",
                 "unit": "C",
-                "value": 28
+                "value": 27
             },
             {
                 "place": "Cheung Chau",
@@ -192,12 +192,12 @@
             {
                 "place": "Chek Lap Kok",
                 "unit": "C",
-                "value": 29
+                "value": 30
             },
             {
                 "place": "Tsing Yi",
                 "unit": "C",
-                "value": 27
+                "value": 26
             },
             {
                 "place": "Shek Kong",
@@ -212,7 +212,7 @@
             {
                 "place": "Tsuen Wan Shing Mun Valley",
                 "unit": "C",
-                "value": 27
+                "value": 26
             },
             {
                 "place": "Hong Kong Park",
@@ -222,7 +222,7 @@
             {
                 "place": "Shau Kei Wan",
                 "unit": "C",
-                "value": 28
+                "value": 27
             },
             {
                 "place": "Kowloon City",
@@ -270,9 +270,9 @@
                 "value": 28
             }
         ],
-        "recordTime": "2024-09-11T23:00:00+08:00"
+        "recordTime": "2024-09-12T00:00:00+08:00"
     },
-    "updateTime": "2024-09-11T23:02:00+08:00",
+    "updateTime": "2024-09-12T00:02:00+08:00",
     "uvindex": "",
     "warningMessage": [
         "The Very Hot Weather Warning is now in force. Prolonged heat alert! Please drink sufficient water. If feeling unwell, take rest or seek help immediately. If needed, seek medical advice as soon as possible."
