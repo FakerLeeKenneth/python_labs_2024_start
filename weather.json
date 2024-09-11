@@ -4,15 +4,15 @@
             {
                 "place": "Hong Kong Observatory",
                 "unit": "percent",
-                "value": 78
+                "value": 83
             }
         ],
-        "recordTime": "2024-09-11T21:00:00+08:00"
+        "recordTime": "2024-09-11T23:00:00+08:00"
     },
     "icon": [
-        77
+        72
     ],
-    "iconUpdateTime": "2024-09-11T18:00:00+08:00",
+    "iconUpdateTime": "2024-09-11T21:50:00+08:00",
     "mintempFrom00To09": "",
     "rainfall": {
         "data": [
@@ -125,8 +125,8 @@
                 "unit": "mm"
             }
         ],
-        "endTime": "2024-09-11T20:45:00+08:00",
-        "startTime": "2024-09-11T19:45:00+08:00"
+        "endTime": "2024-09-11T22:45:00+08:00",
+        "startTime": "2024-09-11T21:45:00+08:00"
     },
     "rainfallFrom00To12": "",
     "rainfallJanuaryToLastMonth": "",
@@ -137,52 +137,52 @@
             {
                 "place": "King's Park",
                 "unit": "C",
-                "value": 29
+                "value": 28
             },
             {
                 "place": "Hong Kong Observatory",
                 "unit": "C",
-                "value": 30
+                "value": 29
             },
             {
                 "place": "Wong Chuk Hang",
                 "unit": "C",
-                "value": 28
+                "value": 27
             },
             {
                 "place": "Ta Kwu Ling",
                 "unit": "C",
-                "value": 28
+                "value": 27
             },
             {
                 "place": "Lau Fau Shan",
                 "unit": "C",
-                "value": 28
+                "value": 27
             },
             {
                 "place": "Tai Po",
                 "unit": "C",
-                "value": 29
+                "value": 28
             },
             {
                 "place": "Sha Tin",
                 "unit": "C",
-                "value": 29
+                "value": 27
             },
             {
                 "place": "Tuen Mun",
                 "unit": "C",
-                "value": 29
+                "value": 28
             },
             {
                 "place": "Tseung Kwan O",
                 "unit": "C",
-                "value": 27
+                "value": 26
             },
             {
                 "place": "Sai Kung",
                 "unit": "C",
-                "value": 29
+                "value": 28
             },
             {
                 "place": "Cheung Chau",
@@ -192,32 +192,32 @@
             {
                 "place": "Chek Lap Kok",
                 "unit": "C",
-                "value": 30
+                "value": 29
             },
             {
                 "place": "Tsing Yi",
                 "unit": "C",
-                "value": 28
+                "value": 27
             },
             {
                 "place": "Shek Kong",
                 "unit": "C",
-                "value": 28
+                "value": 27
             },
             {
                 "place": "Tsuen Wan Ho Koon",
                 "unit": "C",
-                "value": 26
+                "value": 25
             },
             {
                 "place": "Tsuen Wan Shing Mun Valley",
                 "unit": "C",
-                "value": 28
+                "value": 27
             },
             {
                 "place": "Hong Kong Park",
                 "unit": "C",
-                "value": 28
+                "value": 27
             },
             {
                 "place": "Shau Kei Wan",
@@ -232,12 +232,12 @@
             {
                 "place": "Happy Valley",
                 "unit": "C",
-                "value": 29
+                "value": 28
             },
             {
                 "place": "Wong Tai Sin",
                 "unit": "C",
-                "value": 29
+                "value": 28
             },
             {
                 "place": "Stanley",
@@ -252,7 +252,7 @@
             {
                 "place": "Sham Shui Po",
                 "unit": "C",
-                "value": 29
+                "value": 28
             },
             {
                 "place": "Kai Tak Runway Park",
@@ -262,17 +262,17 @@
             {
                 "place": "Yuen Long Park",
                 "unit": "C",
-                "value": 29
+                "value": 28
             },
             {
                 "place": "Tai Mei Tuk",
                 "unit": "C",
-                "value": 29
+                "value": 28
             }
         ],
-        "recordTime": "2024-09-11T21:00:00+08:00"
+        "recordTime": "2024-09-11T23:00:00+08:00"
     },
-    "updateTime": "2024-09-11T21:02:00+08:00",
+    "updateTime": "2024-09-11T23:02:00+08:00",
     "uvindex": "",
     "warningMessage": [
         "The Very Hot Weather Warning is now in force. Prolonged heat alert! Please drink sufficient water. If feeling unwell, take rest or seek help immediately. If needed, seek medical advice as soon as possible."

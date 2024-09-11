@@ -12,7 +12,10 @@ print(result_dict["humidity"])
 print(result_dict["humidity"]["data"][0])
 print(result_dict["humidity"]["data"][0]["value"])
 
-#print the temerature data
+#print all temerature data of each location
+for i in range(len(result_dict["temperature"]["data"])):
+    print("location: ", result_dict["temperature"]["data"][i]["place"])
+    print("temperature: ", result_dict["temperature"]["data"][i]["value"])
 
 
 
